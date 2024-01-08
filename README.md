@@ -1,5 +1,6 @@
 # Create A Responsive Coffee Website in HTML and CSS
 
+![Create-A-Responsive-Coffee-Website-in-HTML-and-CSS](https://github.com/whowalkingupme/Responsive-Coffee-Website-HTML-and-CSS/assets/46256884/84f7a29c-20b9-4295-84f3-3fb86a2323b8)
 
 As a beginner in web development, creating a simple yet responsive website can be an exciting and educational project. It is a great way to learn the basics of HTML fundamentals and CSS styles and gain practical experience in creating and designing a website.
 
